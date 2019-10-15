@@ -1,0 +1,92 @@
+
+/*##### FORKAN UDDIN ##### */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: #111;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url('img/bg.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.container {
+    max-width: 760px;
+    margin: auto;
+    text-align: center;
+    padding: 0.5rem 0.5rem;
+}
+/*##### FORKAN UDDIN ##### */
+.btn {
+    padding: 0.8rem;
+    font-size: 1.2rem;
+    width: 60%;
+    display: inline-block;
+    color: #f4f4f4;
+    background: #000;
+    border: none;
+    border-bottom: #888888 1px solid;
+    margin-bottom: 0.4rem;
+    border-radius: 1rem 0 1rem 0;
+}
+.btn:hover {
+    background: #222;
+}
+
+#navbar {
+    background: rgba(255, 68, 0, 0.918);
+    color: #f4f4f4;
+    border-bottom: 0.2rem black solid;
+    text-shadow: #111 0.3rem 0  0.5rem;
+    margin-bottom: 0.25rem;
+    padding-top: 0.3rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+/*##### FORKAN UDDIN ##### */
+#navbar h3 {
+    padding: 0.5rem 0;
+    font-size: 1.5rem;
+}
+
+#main-section {
+    background: #333;
+    color: rgb(255, 184, 51);
+    padding: 1rem;
+    margin-bottom: 0.4rem;
+}
+#main-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+#main-section h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+/*##### FORKAN UDDIN ##### */
+#wsinput {
+    padding: 0.7rem 1rem;
+    background-color:#ddd ; 
+    width: 50%;
+    margin-bottom: 0.8rem;
+    border-radius: 0.5rem 0;
+    border: none;
+    box-shadow: #000 2px 2px 2px;
+}
+
+
+footer {
+    background: rgba(255, 68, 0, 0.856);
+    color: #f4f4f4;
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+
+.winner-text {
+    color: #10ee10;
+}
+    /*##### FORKAN UDDIN ##### */
